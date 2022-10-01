@@ -1,4 +1,4 @@
-package com.Bridgelabz.FlipTheCoin;
+package com.Bridgelabz.Day5BasicCoreProblems;
 
 public class FlipCoinAndPrintPercentageOfHeadsandTails {
 	
